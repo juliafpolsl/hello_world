@@ -7,6 +7,6 @@ Tu Julka. Kocham pieski i matematykę.
 
 Edycja lokalna: Tak naprawdę to najbardziej lubię spać.
 Edycja na GitHubie:
-'''bash
+```bash
 echo hello world
-'''
+```
